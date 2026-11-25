@@ -210,7 +210,43 @@ learning frontend and backend technologies while building practical projects.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&text=let's%20build%20something%20awesome&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%"/>
+## 📈 my contribution graph
 
+<div align="center">
+
+[![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishcode8292&theme=tokyo-night&hide_border=true)](https://github.com/ashishcode8292)
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishcode8292&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishcode8292&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+<br/>
+
+## 🔥 GitHub contribution streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashishcode8292&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+## 👀 Real GitHub Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashishcode8292&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+
+</div>
 <div align="center">
 <sub>ashish sharma · ashishcode8292 · 2026 · powered by curiosity and code ☕</sub>
 </div>
