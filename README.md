@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**ashishcode8292/ashishcode8292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ashish 👋
 
-Here are some ideas to get you started:
+### Full Stack Developer | Web Developer | App Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer from India, learning and building modern web and mobile applications.
+
+- 🌱 Currently learning Full Stack Development
+- 💻 Working with HTML, CSS, JavaScript and Java
+- 🚀 Building real-world projects
+- 🎯 Goal: Become a skilled Full Stack Developer
+
+### 🛠️ Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Programming:** Java
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** Backend Development
+
+### 📌 What I'm Working On
+
+- Building responsive websites
+- Developing Android applications
+- Improving my programming and problem-solving skills
+
+### 🤝 Connect With Me
+
+- **GitHub:** https://github.com/ashishcode8292
+
+---
+
+⭐ Thanks for visiting my profile!
